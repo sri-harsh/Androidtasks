@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task 6</string>
+    <string name="name1">Name</string>
+    <string name="number">Phone</string>
+    <string name="rollnum1">Roll Number</string>
+    <string name="pass1">Password</string>
+    <string name="email1">Email id</string>
+</resources>
