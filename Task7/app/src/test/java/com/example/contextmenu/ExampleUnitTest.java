@@ -1,4 +1,4 @@
-package com.example.menusandpickers;
+package com.example.contextmenu;
 
 import org.junit.Test;
 
