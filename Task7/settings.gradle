@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Menusandpickers"
+rootProject.name = "Context Menu"
