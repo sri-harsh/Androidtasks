@@ -96,7 +96,7 @@ i.e
 
   - In Case If are Taking TextView or Button, The screen looks like below.
 <p align="center">
-<img  src="https://lh3.googleusercontent.com/proxy/fIw3KGqlcUMTEYErcMYB5MtFzjpa0d_fo8XUrwwPGX5k0_RwGJvvV2jjOqoxwlt6fR6W6_HtJdEQJPmy-hYuE5KrHO-Vo79S28tKrln-uwPNB5S_4NogIEFqpzNbmuF7LP2gdscNiHlvARivIM3qq8IF8TTjQktbAbpiUr0IXWqH8kRJ" width = "200dp">
+<img  src="https://www.tutlane.com/images/android/android_context_menu_example_diagram.gif" width = "200dp">
 </p>
 
 
@@ -111,4 +111,33 @@ i.e
 <p align="center">
 <img  src="https://raw.githubusercontent.com/AP-Skill-Development-Corporation/Android-Internship-SRM/master/Images/TaksImages/options.png" width = "200dp">
 </p>
+
+
+### Task 9(RecyclerView):
+##### Requirements For Task-9 
+I
+ - Create Start new Android Project with empty Activity
+ - Adding Dependency
+ - Follow RecyclerView Implementation Steps
+ - Your RecyclerView design should be in below format.
+ - You can use or downalod your images by using this link- [Android Version Images](https://drive.google.com/file/d/1oxD1E0IcuegF4vEU7-9VWx7JBNxATkh0/view?usp=sharing)
+ - Each Row contains Respected Version details only like _Image, Android versions, name, and API level_. if you don't the version please go through this [Versions Link](https://www.javatpoint.com/android-versions)
+ - Create Images as integer array, remeaning all are string arrays.
+ 
+<p align="center">
+<img  src="https://github.com/AP-Skill-Development-Corporation/Android-Internship-SRM/blob/master/Images/TaksImages/recyclerview.png?raw=true" width = "600dp">
+</p>
+
+## Date: 10-July-2020
+### Task 10(Covid19Api by using AsyncTask)
+#### Requirements of Task - 10
+- create a one new Android Studio project with the name of **Covid19India**
+- By using the below url read the json data from the server and display that in the recyclerview(The Recyclerview item has to start with Most recent date).
+- [URL](https://api.covid19api.com/dayone/country/IN)
+
+<img src='https://raw.githubusercontent.com/AP-Skill-Development-Corporation/Android-Internship-SRM/master/covid19api.png'>
+
+
+
+
 
