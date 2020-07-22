@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task11SQLite</string>
+
+    <string-array name="department">
+
+        <item>Choose your Department</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>Mechanical</item>
+        <item>EEE</item>
+        <item>Civil</item>
+    </string-array>
+</resources>
